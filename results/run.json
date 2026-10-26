@@ -1,0 +1,26 @@
+{
+  "data_first": "1999-01-04",
+  "data_last": "2026-10-23",
+  "rows": 7183,
+  "currencies": [
+    "USD",
+    "GBP",
+    "JPY",
+    "CHF",
+    "CNY",
+    "AUD"
+  ],
+  "horizons": [
+    1,
+    5,
+    20
+  ],
+  "min_train": 1000,
+  "refit_every": 63,
+  "first_forecast": "2003-09-10 00:00:00",
+  "last_forecast": "2026-10-22 00:00:00",
+  "n_forecasts_mean": 528195,
+  "garch_fallback_blocks": 0,
+  "seconds": 775,
+  "python": "3.12.9"
+}
